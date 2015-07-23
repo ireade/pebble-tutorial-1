@@ -7,7 +7,18 @@
     "longName": "Tutorial 1",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "BACKGROUND_IMG",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Comic Sans MS.ttf",
+                "name": "COMIC_SANS_36",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "Tutorial 1",

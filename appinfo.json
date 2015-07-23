@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ire Aderinokun",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3ef2d36f-3120-459c-8909-54b102df32a3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
